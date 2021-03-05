@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory(Try again).exe
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory(Try again).deps.json
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory(Try again).runtimeconfig.json
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory(Try again).runtimeconfig.dev.json
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory(Try again).dll
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory(Try again).pdb
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).csprojAssemblyReference.cache
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).AssemblyInfo.cs
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).dll
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).pdb
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory(Try again).genruntimeconfig.cache

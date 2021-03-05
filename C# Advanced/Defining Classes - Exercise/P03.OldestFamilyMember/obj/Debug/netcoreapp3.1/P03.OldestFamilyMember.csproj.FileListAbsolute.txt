@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.exe
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.deps.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.dll
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.pdb
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.dll
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.pdb
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.exe
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.deps.json
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.runtimeconfig.json
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.dll
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\bin\Debug\netcoreapp3.1\P03.OldestFamilyMember.pdb
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.dll
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.pdb
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Defining Classes - Exercise\P03.OldestFamilyMember\obj\Debug\netcoreapp3.1\P03.OldestFamilyMember.genruntimeconfig.cache

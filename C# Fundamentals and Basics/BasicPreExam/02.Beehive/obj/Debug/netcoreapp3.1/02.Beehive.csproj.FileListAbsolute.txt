@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\bin\Debug\netcoreapp3.1\02.Beehive.exe
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\bin\Debug\netcoreapp3.1\02.Beehive.deps.json
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\bin\Debug\netcoreapp3.1\02.Beehive.runtimeconfig.json
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\bin\Debug\netcoreapp3.1\02.Beehive.runtimeconfig.dev.json
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\bin\Debug\netcoreapp3.1\02.Beehive.dll
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\bin\Debug\netcoreapp3.1\02.Beehive.pdb
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.AssemblyInfo.cs
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.dll
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.pdb
+C:\Users\User\source\repos\BasicPreExam\02.Beehive\obj\Debug\netcoreapp3.1\02.Beehive.genruntimeconfig.cache

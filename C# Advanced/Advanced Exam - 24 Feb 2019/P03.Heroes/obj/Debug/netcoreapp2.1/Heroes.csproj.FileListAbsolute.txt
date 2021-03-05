@@ -1,0 +1,12 @@
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P03.Heroes\obj\Debug\netcoreapp2.1\Heroes.genruntimeconfig.cache

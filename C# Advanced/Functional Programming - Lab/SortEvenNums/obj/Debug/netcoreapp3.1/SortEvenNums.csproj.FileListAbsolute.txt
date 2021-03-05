@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\bin\Debug\netcoreapp3.1\SortEvenNums.exe
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\bin\Debug\netcoreapp3.1\SortEvenNums.deps.json
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\bin\Debug\netcoreapp3.1\SortEvenNums.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\bin\Debug\netcoreapp3.1\SortEvenNums.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\bin\Debug\netcoreapp3.1\SortEvenNums.dll
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\bin\Debug\netcoreapp3.1\SortEvenNums.pdb
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.dll
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.pdb
+C:\Users\User\Desktop\C# Advanced\Functional Programming - Lab\SortEvenNums\obj\Debug\netcoreapp3.1\SortEvenNums.genruntimeconfig.cache

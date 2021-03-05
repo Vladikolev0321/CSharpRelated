@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.exe
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.dll
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.pdb
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.dll
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.pdb
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.genruntimeconfig.cache

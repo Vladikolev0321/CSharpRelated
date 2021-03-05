@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.exe
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.deps.json
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.dll
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.pdb
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.dll
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.pdb
+C:\Users\User\Desktop\C#OOP\Polymorphism - Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.genruntimeconfig.cache

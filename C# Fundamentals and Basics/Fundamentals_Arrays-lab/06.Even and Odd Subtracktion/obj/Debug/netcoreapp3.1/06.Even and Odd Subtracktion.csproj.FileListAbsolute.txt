@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\bin\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.exe
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\bin\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.deps.json
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\bin\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\bin\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\bin\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.dll
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\bin\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.pdb
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\obj\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\obj\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\obj\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\obj\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.dll
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\obj\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.pdb
+C:\Users\User\source\repos\Fundamentals_Arrays-lab\06.Even and Odd Subtracktion\obj\Debug\netcoreapp3.1\06.Even and Odd Subtracktion.genruntimeconfig.cache

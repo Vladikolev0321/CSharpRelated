@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache

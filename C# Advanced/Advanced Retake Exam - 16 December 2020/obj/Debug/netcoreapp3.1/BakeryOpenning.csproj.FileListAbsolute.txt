@@ -1,0 +1,4 @@
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Retake Exam - 16 December 2020\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Retake Exam - 16 December 2020\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Retake Exam - 16 December 2020\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Retake Exam - 16 December 2020\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache

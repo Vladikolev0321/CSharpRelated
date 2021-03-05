@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\bin\Debug\netcoreapp3.1\Class_Abstraction.exe
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\bin\Debug\netcoreapp3.1\Class_Abstraction.deps.json
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\bin\Debug\netcoreapp3.1\Class_Abstraction.runtimeconfig.json
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\bin\Debug\netcoreapp3.1\Class_Abstraction.runtimeconfig.dev.json
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\bin\Debug\netcoreapp3.1\Class_Abstraction.dll
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\bin\Debug\netcoreapp3.1\Class_Abstraction.pdb
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.AssemblyInfo.cs
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.dll
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.pdb
+C:\Users\User\source\repos\TestingSomething\Class_Abstraction\obj\Debug\netcoreapp3.1\Class_Abstraction.genruntimeconfig.cache

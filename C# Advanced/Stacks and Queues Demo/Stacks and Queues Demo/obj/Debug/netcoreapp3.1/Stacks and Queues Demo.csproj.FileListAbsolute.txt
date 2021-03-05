@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\bin\Debug\netcoreapp3.1\Stacks and Queues Demo.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\bin\Debug\netcoreapp3.1\Stacks and Queues Demo.deps.json
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\bin\Debug\netcoreapp3.1\Stacks and Queues Demo.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\bin\Debug\netcoreapp3.1\Stacks and Queues Demo.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\bin\Debug\netcoreapp3.1\Stacks and Queues Demo.dll
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\bin\Debug\netcoreapp3.1\Stacks and Queues Demo.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.dll
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues Demo\Stacks and Queues Demo\obj\Debug\netcoreapp3.1\Stacks and Queues Demo.genruntimeconfig.cache

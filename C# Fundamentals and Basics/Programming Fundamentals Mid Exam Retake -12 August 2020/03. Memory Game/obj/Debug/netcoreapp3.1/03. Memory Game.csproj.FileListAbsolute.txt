@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.genruntimeconfig.cache

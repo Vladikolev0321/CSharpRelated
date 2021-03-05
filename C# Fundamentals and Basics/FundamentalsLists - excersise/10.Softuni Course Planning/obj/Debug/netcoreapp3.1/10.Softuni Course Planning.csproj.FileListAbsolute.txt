@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\bin\Debug\netcoreapp3.1\10.Softuni Course Planning.exe
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\bin\Debug\netcoreapp3.1\10.Softuni Course Planning.deps.json
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\bin\Debug\netcoreapp3.1\10.Softuni Course Planning.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\bin\Debug\netcoreapp3.1\10.Softuni Course Planning.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\bin\Debug\netcoreapp3.1\10.Softuni Course Planning.dll
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\bin\Debug\netcoreapp3.1\10.Softuni Course Planning.pdb
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.dll
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.pdb
+C:\Users\User\source\repos\FundamentalsLists - excersise\10.Softuni Course Planning\obj\Debug\netcoreapp3.1\10.Softuni Course Planning.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Santa's Present Factory.exe
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Santa's Present Factory.deps.json
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Santa's Present Factory.runtimeconfig.json
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Santa's Present Factory.runtimeconfig.dev.json
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Santa's Present Factory.dll
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Santa's Present Factory.pdb
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.AssemblyInfo.cs
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.dll
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.pdb
+C:\Users\User\source\repos\Advanced_Pre_Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Santa's Present Factory.genruntimeconfig.cache

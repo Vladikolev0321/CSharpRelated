@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.1\02. Registration.exe
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.1\02. Registration.deps.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.1\02. Registration.runtimeconfig.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.1\02. Registration.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.1\02. Registration.dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.1\02. Registration.pdb
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.pdb
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.1\02. Registration.genruntimeconfig.cache

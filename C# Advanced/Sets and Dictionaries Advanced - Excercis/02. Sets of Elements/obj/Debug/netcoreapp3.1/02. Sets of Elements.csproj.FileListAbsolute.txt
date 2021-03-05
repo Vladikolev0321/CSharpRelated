@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.exe
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.deps.json
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\Users\User\Desktop\C# Advanced\Sets and Dictionaries Advanced - Excercis\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.genruntimeconfig.cache

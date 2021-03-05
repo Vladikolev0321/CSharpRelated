@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.exe
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.deps.json
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.json
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.dev.json
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.dll
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.pdb
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfo.cs
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.dll
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.pdb
+C:\Users\User\source\repos\HelloSoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.genruntimeconfig.cache

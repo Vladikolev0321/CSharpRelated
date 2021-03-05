@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.exe
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.pdb

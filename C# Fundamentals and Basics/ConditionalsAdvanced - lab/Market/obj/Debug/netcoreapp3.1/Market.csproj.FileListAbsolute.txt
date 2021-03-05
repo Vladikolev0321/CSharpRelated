@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\bin\Debug\netcoreapp3.1\Market.exe
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\bin\Debug\netcoreapp3.1\Market.deps.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\bin\Debug\netcoreapp3.1\Market.dll
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\bin\Debug\netcoreapp3.1\Market.pdb
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.dll
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.pdb
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\Market\obj\Debug\netcoreapp3.1\Market.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam - 20 February 2021\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

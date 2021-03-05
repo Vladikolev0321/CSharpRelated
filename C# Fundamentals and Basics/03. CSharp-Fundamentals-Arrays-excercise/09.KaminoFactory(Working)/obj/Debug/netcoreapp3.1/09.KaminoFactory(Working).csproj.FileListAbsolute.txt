@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\bin\Debug\netcoreapp3.1\09.KaminoFactory(Working).exe
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\bin\Debug\netcoreapp3.1\09.KaminoFactory(Working).deps.json
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\bin\Debug\netcoreapp3.1\09.KaminoFactory(Working).runtimeconfig.json
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\bin\Debug\netcoreapp3.1\09.KaminoFactory(Working).runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\bin\Debug\netcoreapp3.1\09.KaminoFactory(Working).dll
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\bin\Debug\netcoreapp3.1\09.KaminoFactory(Working).pdb
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).dll
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).pdb
+C:\Users\vladi\Desktop\C# Fundamentals and Basics\03. CSharp-Fundamentals-Arrays-excercise\09.KaminoFactory(Working)\obj\Debug\netcoreapp3.1\09.KaminoFactory(Working).genruntimeconfig.cache

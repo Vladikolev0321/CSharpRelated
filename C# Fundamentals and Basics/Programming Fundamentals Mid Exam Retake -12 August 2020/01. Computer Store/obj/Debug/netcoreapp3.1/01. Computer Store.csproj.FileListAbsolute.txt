@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_3._Raiding.Factory</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="3._Raiding.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.exe
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.deps.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.dev.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfo.cs
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.genruntimeconfig.cache

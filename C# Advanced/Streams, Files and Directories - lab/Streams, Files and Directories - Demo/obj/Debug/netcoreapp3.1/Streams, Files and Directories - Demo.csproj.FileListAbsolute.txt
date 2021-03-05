@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.exe
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.deps.json
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.dll
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.pdb
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.dll
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.pdb
+C:\Users\User\Desktop\C# Advanced\Streams, Files and Directories - lab\Streams, Files and Directories - Demo\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Demo.genruntimeconfig.cache

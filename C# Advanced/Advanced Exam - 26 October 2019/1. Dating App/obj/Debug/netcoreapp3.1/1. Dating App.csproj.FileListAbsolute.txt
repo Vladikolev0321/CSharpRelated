@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.1\1. Dating App.exe
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.1\1. Dating App.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.1\1. Dating App.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.1\1. Dating App.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.1\1. Dating App.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.1\1. Dating App.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.1\1. Dating App.genruntimeconfig.cache

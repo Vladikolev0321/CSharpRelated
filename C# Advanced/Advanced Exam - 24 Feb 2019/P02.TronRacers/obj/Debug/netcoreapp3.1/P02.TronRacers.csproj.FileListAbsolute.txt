@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\bin\Debug\netcoreapp3.1\P02.TronRacers.exe
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\bin\Debug\netcoreapp3.1\P02.TronRacers.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\bin\Debug\netcoreapp3.1\P02.TronRacers.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\bin\Debug\netcoreapp3.1\P02.TronRacers.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\bin\Debug\netcoreapp3.1\P02.TronRacers.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\bin\Debug\netcoreapp3.1\P02.TronRacers.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P02.TronRacers\obj\Debug\netcoreapp3.1\P02.TronRacers.genruntimeconfig.cache

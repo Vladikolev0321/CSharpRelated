@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.exe
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.deps.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.genruntimeconfig.cache

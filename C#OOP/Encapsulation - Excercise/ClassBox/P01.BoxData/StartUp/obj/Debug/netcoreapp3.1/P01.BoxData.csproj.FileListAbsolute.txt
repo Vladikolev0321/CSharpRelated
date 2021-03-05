@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\bin\Debug\netcoreapp3.1\P01.BoxData.exe
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\bin\Debug\netcoreapp3.1\P01.BoxData.deps.json
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\bin\Debug\netcoreapp3.1\P01.BoxData.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\bin\Debug\netcoreapp3.1\P01.BoxData.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\bin\Debug\netcoreapp3.1\P01.BoxData.dll
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\bin\Debug\netcoreapp3.1\P01.BoxData.pdb
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.dll
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.pdb
+C:\Users\User\source\repos\Encapsulation - Excercise\ClassBox\P01.BoxData\StartUp\obj\Debug\netcoreapp3.1\P01.BoxData.genruntimeconfig.cache

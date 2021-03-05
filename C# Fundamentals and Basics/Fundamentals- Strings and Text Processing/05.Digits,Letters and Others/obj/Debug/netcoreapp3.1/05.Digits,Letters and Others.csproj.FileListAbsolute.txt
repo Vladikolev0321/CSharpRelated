@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\bin\Debug\netcoreapp3.1\05.Digits,Letters and Others.exe
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\bin\Debug\netcoreapp3.1\05.Digits,Letters and Others.deps.json
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\bin\Debug\netcoreapp3.1\05.Digits,Letters and Others.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\bin\Debug\netcoreapp3.1\05.Digits,Letters and Others.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\bin\Debug\netcoreapp3.1\05.Digits,Letters and Others.dll
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\bin\Debug\netcoreapp3.1\05.Digits,Letters and Others.pdb
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\obj\Debug\netcoreapp3.1\05.Digits,Letters and Others.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\obj\Debug\netcoreapp3.1\05.Digits,Letters and Others.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\obj\Debug\netcoreapp3.1\05.Digits,Letters and Others.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\obj\Debug\netcoreapp3.1\05.Digits,Letters and Others.dll
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\obj\Debug\netcoreapp3.1\05.Digits,Letters and Others.pdb
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\05.Digits,Letters and Others\obj\Debug\netcoreapp3.1\05.Digits,Letters and Others.genruntimeconfig.cache

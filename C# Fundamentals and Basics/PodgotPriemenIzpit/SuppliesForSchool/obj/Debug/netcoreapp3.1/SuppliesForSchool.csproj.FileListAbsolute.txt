@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.exe
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.deps.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.runtimeconfig.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.runtimeconfig.dev.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.AssemblyInfo.cs
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.genruntimeconfig.cache

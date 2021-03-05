@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.exe
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.deps.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.genruntimeconfig.cache

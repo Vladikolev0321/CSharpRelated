@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.genruntimeconfig.cache

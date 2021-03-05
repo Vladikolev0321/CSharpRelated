@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.exe
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 28 June 2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.genruntimeconfig.cache

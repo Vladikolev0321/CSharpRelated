@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\bin\Debug\netcoreapp3.1\Add_range.exe
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\bin\Debug\netcoreapp3.1\Add_range.deps.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\bin\Debug\netcoreapp3.1\Add_range.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\bin\Debug\netcoreapp3.1\Add_range.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\bin\Debug\netcoreapp3.1\Add_range.dll
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\bin\Debug\netcoreapp3.1\Add_range.pdb
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\obj\Debug\netcoreapp3.1\Add_range.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\obj\Debug\netcoreapp3.1\Add_range.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\obj\Debug\netcoreapp3.1\Add_range.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\obj\Debug\netcoreapp3.1\Add_range.dll
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\obj\Debug\netcoreapp3.1\Add_range.pdb
+C:\Users\User\source\repos\Fundamentals_Lists-lab\Add_range\obj\Debug\netcoreapp3.1\Add_range.genruntimeconfig.cache

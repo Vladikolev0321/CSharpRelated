@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ql9QzHsCB3NB1ZG6mFUJXA54K08+TVeA5tz6q1c/oMI8wv8Avh/G0Cmc7kJrpHxIFlRmwrAfJTg9UQ2QdfNrXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladi\\Desktop\\C#\\C# Advanced\\Defining Classes - Exercise\\01. Define a Class Person\\01. Define a Class Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

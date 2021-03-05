@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfo.cs
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.exe
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.deps.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.dev.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.genruntimeconfig.cache

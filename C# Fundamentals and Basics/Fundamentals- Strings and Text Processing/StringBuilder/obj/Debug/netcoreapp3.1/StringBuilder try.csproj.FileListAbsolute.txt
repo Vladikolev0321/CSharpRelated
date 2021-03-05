@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder try.exe
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder try.deps.json
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder try.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder try.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder try.dll
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder try.pdb
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder try.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder try.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder try.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder try.dll
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder try.pdb
+C:\Users\User\source\repos\Fundamentals- Strings and Text Processing\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder try.genruntimeconfig.cache

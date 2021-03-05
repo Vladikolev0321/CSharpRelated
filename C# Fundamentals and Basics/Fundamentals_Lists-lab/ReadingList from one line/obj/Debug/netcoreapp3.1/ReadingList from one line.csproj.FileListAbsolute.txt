@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\bin\Debug\netcoreapp3.1\ReadingList from one line.exe
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\bin\Debug\netcoreapp3.1\ReadingList from one line.deps.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\bin\Debug\netcoreapp3.1\ReadingList from one line.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\bin\Debug\netcoreapp3.1\ReadingList from one line.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\bin\Debug\netcoreapp3.1\ReadingList from one line.dll
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\bin\Debug\netcoreapp3.1\ReadingList from one line.pdb
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.dll
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.pdb
+C:\Users\User\source\repos\Fundamentals_Lists-lab\ReadingList from one line\obj\Debug\netcoreapp3.1\ReadingList from one line.genruntimeconfig.cache

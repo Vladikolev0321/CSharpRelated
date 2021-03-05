@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\bin\Debug\netcoreapp3.1\Deposit_calculator.exe
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\bin\Debug\netcoreapp3.1\Deposit_calculator.deps.json
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\bin\Debug\netcoreapp3.1\Deposit_calculator.runtimeconfig.json
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\bin\Debug\netcoreapp3.1\Deposit_calculator.runtimeconfig.dev.json
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\bin\Debug\netcoreapp3.1\Deposit_calculator.dll
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\bin\Debug\netcoreapp3.1\Deposit_calculator.pdb
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.AssemblyInfo.cs
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.dll
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.pdb
+C:\Users\User\source\repos\UsdTOBgn\Deposit_calculator\obj\Debug\netcoreapp3.1\Deposit_calculator.genruntimeconfig.cache

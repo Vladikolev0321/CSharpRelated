@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam Retake -12 August 2020\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.genruntimeconfig.cache

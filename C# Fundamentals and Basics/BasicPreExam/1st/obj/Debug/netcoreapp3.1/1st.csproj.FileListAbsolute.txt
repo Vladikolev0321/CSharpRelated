@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BasicPreExam\1st\bin\Debug\netcoreapp3.1\1st.exe
+C:\Users\User\source\repos\BasicPreExam\1st\bin\Debug\netcoreapp3.1\1st.deps.json
+C:\Users\User\source\repos\BasicPreExam\1st\bin\Debug\netcoreapp3.1\1st.runtimeconfig.json
+C:\Users\User\source\repos\BasicPreExam\1st\bin\Debug\netcoreapp3.1\1st.runtimeconfig.dev.json
+C:\Users\User\source\repos\BasicPreExam\1st\bin\Debug\netcoreapp3.1\1st.dll
+C:\Users\User\source\repos\BasicPreExam\1st\bin\Debug\netcoreapp3.1\1st.pdb
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.AssemblyInfo.cs
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.dll
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.pdb
+C:\Users\User\source\repos\BasicPreExam\1st\obj\Debug\netcoreapp3.1\1st.genruntimeconfig.cache

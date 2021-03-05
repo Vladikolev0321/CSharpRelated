@@ -1,0 +1,12 @@
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\bin\Debug\netcoreapp3.1\03.Word count.exe
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\bin\Debug\netcoreapp3.1\03.Word count.deps.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\bin\Debug\netcoreapp3.1\03.Word count.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\bin\Debug\netcoreapp3.1\03.Word count.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\bin\Debug\netcoreapp3.1\03.Word count.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\bin\Debug\netcoreapp3.1\03.Word count.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\obj\Debug\netcoreapp3.1\03.Word count.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\obj\Debug\netcoreapp3.1\03.Word count.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\obj\Debug\netcoreapp3.1\03.Word count.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\obj\Debug\netcoreapp3.1\03.Word count.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\obj\Debug\netcoreapp3.1\03.Word count.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\03.Word count\obj\Debug\netcoreapp3.1\03.Word count.genruntimeconfig.cache

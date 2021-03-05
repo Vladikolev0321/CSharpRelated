@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TestingSomething\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.exe
+C:\Users\User\source\repos\TestingSomething\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.deps.json
+C:\Users\User\source\repos\TestingSomething\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.runtimeconfig.json
+C:\Users\User\source\repos\TestingSomething\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.runtimeconfig.dev.json
+C:\Users\User\source\repos\TestingSomething\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.dll
+C:\Users\User\source\repos\TestingSomething\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.pdb
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.AssemblyInfo.cs
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.dll
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.pdb
+C:\Users\User\source\repos\TestingSomething\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.genruntimeconfig.cache

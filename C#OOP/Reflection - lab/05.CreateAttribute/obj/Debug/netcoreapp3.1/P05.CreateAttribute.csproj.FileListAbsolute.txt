@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\P05.CreateAttribute.exe
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\P05.CreateAttribute.deps.json
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\P05.CreateAttribute.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\P05.CreateAttribute.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\P05.CreateAttribute.dll
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\P05.CreateAttribute.pdb
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.dll
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.pdb
+C:\Users\User\Desktop\C#OOP\Reflection - lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\P05.CreateAttribute.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\bin\Debug\netcoreapp3.1\P06.SpeedRacing.exe
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\bin\Debug\netcoreapp3.1\P06.SpeedRacing.deps.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\bin\Debug\netcoreapp3.1\P06.SpeedRacing.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\bin\Debug\netcoreapp3.1\P06.SpeedRacing.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\bin\Debug\netcoreapp3.1\P06.SpeedRacing.dll
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\bin\Debug\netcoreapp3.1\P06.SpeedRacing.pdb
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.dll
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.pdb
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P06.SpeedRacing\obj\Debug\netcoreapp3.1\P06.SpeedRacing.genruntimeconfig.cache

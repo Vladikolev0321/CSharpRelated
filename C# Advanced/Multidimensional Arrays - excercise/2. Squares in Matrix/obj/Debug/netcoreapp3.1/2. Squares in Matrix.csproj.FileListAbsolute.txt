@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.exe
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.deps.json
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\User\Desktop\C# Advanced\1. Diagonal Difference\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache

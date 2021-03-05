@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 04 April 2020 Group 1(3)\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.genruntimeconfig.cache

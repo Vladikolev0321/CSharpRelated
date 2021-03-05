@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\bin\Debug\netcoreapp3.1\AreaOfFiqueres.exe
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\bin\Debug\netcoreapp3.1\AreaOfFiqueres.deps.json
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\bin\Debug\netcoreapp3.1\AreaOfFiqueres.runtimeconfig.json
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\bin\Debug\netcoreapp3.1\AreaOfFiqueres.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\bin\Debug\netcoreapp3.1\AreaOfFiqueres.dll
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\bin\Debug\netcoreapp3.1\AreaOfFiqueres.pdb
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\obj\Debug\netcoreapp3.1\AreaOfFiqueres.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\obj\Debug\netcoreapp3.1\AreaOfFiqueres.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\obj\Debug\netcoreapp3.1\AreaOfFiqueres.AssemblyInfo.cs
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\obj\Debug\netcoreapp3.1\AreaOfFiqueres.dll
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\obj\Debug\netcoreapp3.1\AreaOfFiqueres.pdb
+C:\Users\User\source\repos\ExcellentResult\AreaOfFiqueres\obj\Debug\netcoreapp3.1\AreaOfFiqueres.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\P03.PlayersAndMonsters.exe
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\P03.PlayersAndMonsters.deps.json
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\P03.PlayersAndMonsters.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\P03.PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\P03.PlayersAndMonsters.dll
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\P03.PlayersAndMonsters.pdb
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\P03.PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\P03.PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\P03.PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\P03.PlayersAndMonsters.dll
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\P03.PlayersAndMonsters.pdb
+C:\Users\User\Desktop\C#OOP\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\P03.PlayersAndMonsters.genruntimeconfig.cache

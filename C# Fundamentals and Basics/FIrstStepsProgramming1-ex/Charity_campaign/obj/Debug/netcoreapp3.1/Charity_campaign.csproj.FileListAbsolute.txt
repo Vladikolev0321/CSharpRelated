@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\bin\Debug\netcoreapp3.1\Charity_campaign.exe
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\bin\Debug\netcoreapp3.1\Charity_campaign.deps.json
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\bin\Debug\netcoreapp3.1\Charity_campaign.runtimeconfig.json
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\bin\Debug\netcoreapp3.1\Charity_campaign.runtimeconfig.dev.json
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\bin\Debug\netcoreapp3.1\Charity_campaign.dll
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\bin\Debug\netcoreapp3.1\Charity_campaign.pdb
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.AssemblyInfo.cs
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.dll
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.pdb
+C:\Users\User\source\repos\UsdTOBgn\Charity_campaign\obj\Debug\netcoreapp3.1\Charity_campaign.genruntimeconfig.cache

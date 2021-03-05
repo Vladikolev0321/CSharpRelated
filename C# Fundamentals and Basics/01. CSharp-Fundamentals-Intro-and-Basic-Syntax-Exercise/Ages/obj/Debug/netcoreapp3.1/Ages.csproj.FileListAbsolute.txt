@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\bin\Debug\netcoreapp3.1\Ages.exe
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\bin\Debug\netcoreapp3.1\Ages.deps.json
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.json
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\bin\Debug\netcoreapp3.1\Ages.dll
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\bin\Debug\netcoreapp3.1\Ages.pdb
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.csprojAssemblyReference.cache
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.AssemblyInfo.cs
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.dll
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.pdb
+C:\Users\User\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\Ages\obj\Debug\netcoreapp3.1\Ages.genruntimeconfig.cache

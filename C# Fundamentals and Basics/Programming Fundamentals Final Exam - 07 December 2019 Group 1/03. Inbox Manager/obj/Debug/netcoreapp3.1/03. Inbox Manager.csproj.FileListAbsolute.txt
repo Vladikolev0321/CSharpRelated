@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.1\03. Inbox Manager.exe
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.1\03. Inbox Manager.deps.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.1\03. Inbox Manager.runtimeconfig.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.1\03. Inbox Manager.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.1\03. Inbox Manager.dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.1\03. Inbox Manager.pdb
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.pdb
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\bin\Debug\netcoreapp3.1\P07.RawData.exe
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\bin\Debug\netcoreapp3.1\P07.RawData.deps.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\bin\Debug\netcoreapp3.1\P07.RawData.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\bin\Debug\netcoreapp3.1\P07.RawData.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\bin\Debug\netcoreapp3.1\P07.RawData.dll
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\bin\Debug\netcoreapp3.1\P07.RawData.pdb
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.dll
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.pdb
+C:\Users\User\Desktop\C# Advanced\Defining Classes - Exercise\P07.RawData\obj\Debug\netcoreapp3.1\P07.RawData.genruntimeconfig.cache

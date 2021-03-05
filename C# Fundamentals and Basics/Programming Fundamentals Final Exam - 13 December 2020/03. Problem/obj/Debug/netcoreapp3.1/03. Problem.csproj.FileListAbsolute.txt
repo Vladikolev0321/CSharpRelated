@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Final Exam - 13 December 2020\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.genruntimeconfig.cache

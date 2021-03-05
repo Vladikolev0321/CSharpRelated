@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs(To do).exe
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs(To do).deps.json
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs(To do).runtimeconfig.json
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs(To do).runtimeconfig.dev.json
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs(To do).dll
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs(To do).pdb
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).csprojAssemblyReference.cache
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).AssemblyInfo.cs
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).dll
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).pdb
+C:\Users\User\source\repos\03. CSharp-Fundamentals-Arrays-excercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs(To do).genruntimeconfig.cache

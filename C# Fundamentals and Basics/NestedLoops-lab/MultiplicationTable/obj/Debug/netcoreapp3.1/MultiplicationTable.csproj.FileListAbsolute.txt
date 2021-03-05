@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\User\source\repos\NestedLoops-lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

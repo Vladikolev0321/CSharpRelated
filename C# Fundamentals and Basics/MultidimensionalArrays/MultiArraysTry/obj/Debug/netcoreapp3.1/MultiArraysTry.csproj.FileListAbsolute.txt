@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\bin\Debug\netcoreapp3.1\MultiArraysTry.exe
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\bin\Debug\netcoreapp3.1\MultiArraysTry.deps.json
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\bin\Debug\netcoreapp3.1\MultiArraysTry.runtimeconfig.json
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\bin\Debug\netcoreapp3.1\MultiArraysTry.runtimeconfig.dev.json
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\bin\Debug\netcoreapp3.1\MultiArraysTry.dll
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\bin\Debug\netcoreapp3.1\MultiArraysTry.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.AssemblyInfo.cs
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.dll
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\MultiArraysTry\obj\Debug\netcoreapp3.1\MultiArraysTry.genruntimeconfig.cache

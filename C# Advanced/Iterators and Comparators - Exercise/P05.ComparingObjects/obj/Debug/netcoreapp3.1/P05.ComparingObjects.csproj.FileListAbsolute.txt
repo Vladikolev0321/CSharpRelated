@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.exe
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.dll
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.pdb
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.dll
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.pdb
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.genruntimeconfig.cache

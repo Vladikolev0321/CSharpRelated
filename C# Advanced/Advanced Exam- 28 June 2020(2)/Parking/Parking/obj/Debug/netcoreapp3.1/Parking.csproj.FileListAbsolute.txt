@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Advanced Exam- 28 June 2020(2)\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

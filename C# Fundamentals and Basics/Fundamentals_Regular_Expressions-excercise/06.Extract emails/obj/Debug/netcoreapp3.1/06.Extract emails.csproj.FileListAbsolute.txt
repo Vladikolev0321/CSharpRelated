@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\bin\Debug\netcoreapp3.1\06.Extract emails.exe
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\bin\Debug\netcoreapp3.1\06.Extract emails.deps.json
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\bin\Debug\netcoreapp3.1\06.Extract emails.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\bin\Debug\netcoreapp3.1\06.Extract emails.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\bin\Debug\netcoreapp3.1\06.Extract emails.dll
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\bin\Debug\netcoreapp3.1\06.Extract emails.pdb
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.dll
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.pdb
+C:\Users\User\source\repos\Fundamentals_Regular_Expressions-excercise\06.Extract emails\obj\Debug\netcoreapp3.1\06.Extract emails.genruntimeconfig.cache

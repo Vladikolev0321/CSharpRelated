@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\obj\Debug\netcoreapp3.1\SortingList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\obj\Debug\netcoreapp3.1\SortingList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\obj\Debug\netcoreapp3.1\SortingList.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\bin\Debug\netcoreapp3.1\SortingList.exe
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\bin\Debug\netcoreapp3.1\SortingList.deps.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\bin\Debug\netcoreapp3.1\SortingList.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\bin\Debug\netcoreapp3.1\SortingList.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\bin\Debug\netcoreapp3.1\SortingList.dll
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\bin\Debug\netcoreapp3.1\SortingList.pdb
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\obj\Debug\netcoreapp3.1\SortingList.dll
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\obj\Debug\netcoreapp3.1\SortingList.pdb
+C:\Users\User\source\repos\Fundamentals_Lists-lab\SortingList\obj\Debug\netcoreapp3.1\SortingList.genruntimeconfig.cache

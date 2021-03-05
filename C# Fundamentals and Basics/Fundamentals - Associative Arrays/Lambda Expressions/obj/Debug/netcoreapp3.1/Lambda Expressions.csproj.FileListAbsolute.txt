@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\bin\Debug\netcoreapp3.1\Lambda Expressions.exe
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\bin\Debug\netcoreapp3.1\Lambda Expressions.deps.json
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\bin\Debug\netcoreapp3.1\Lambda Expressions.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\bin\Debug\netcoreapp3.1\Lambda Expressions.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\bin\Debug\netcoreapp3.1\Lambda Expressions.dll
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\bin\Debug\netcoreapp3.1\Lambda Expressions.pdb
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\obj\Debug\netcoreapp3.1\Lambda Expressions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\obj\Debug\netcoreapp3.1\Lambda Expressions.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\obj\Debug\netcoreapp3.1\Lambda Expressions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\obj\Debug\netcoreapp3.1\Lambda Expressions.dll
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\obj\Debug\netcoreapp3.1\Lambda Expressions.pdb
+C:\Users\User\source\repos\Fundamentals - Associative Arrays\Lambda Expressions\obj\Debug\netcoreapp3.1\Lambda Expressions.genruntimeconfig.cache

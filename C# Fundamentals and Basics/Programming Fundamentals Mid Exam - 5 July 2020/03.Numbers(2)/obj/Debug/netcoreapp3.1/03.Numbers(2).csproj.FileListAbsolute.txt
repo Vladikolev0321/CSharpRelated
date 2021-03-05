@@ -1,0 +1,12 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\bin\Debug\netcoreapp3.1\03.Numbers(2).exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\bin\Debug\netcoreapp3.1\03.Numbers(2).deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\bin\Debug\netcoreapp3.1\03.Numbers(2).runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\bin\Debug\netcoreapp3.1\03.Numbers(2).runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\bin\Debug\netcoreapp3.1\03.Numbers(2).dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\bin\Debug\netcoreapp3.1\03.Numbers(2).pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\obj\Debug\netcoreapp3.1\03.Numbers(2).AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\obj\Debug\netcoreapp3.1\03.Numbers(2).AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\obj\Debug\netcoreapp3.1\03.Numbers(2).csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\obj\Debug\netcoreapp3.1\03.Numbers(2).dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\obj\Debug\netcoreapp3.1\03.Numbers(2).pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\03.Numbers(2)\obj\Debug\netcoreapp3.1\03.Numbers(2).genruntimeconfig.cache

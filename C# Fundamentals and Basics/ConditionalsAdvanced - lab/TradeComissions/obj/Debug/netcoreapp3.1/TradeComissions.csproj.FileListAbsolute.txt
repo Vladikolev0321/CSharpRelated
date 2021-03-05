@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.exe
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.deps.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.dll
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.pdb
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.dll
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.pdb
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\P05.BirthdayCelebrations.exe
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\P05.BirthdayCelebrations.deps.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\P05.BirthdayCelebrations.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\P05.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\P05.BirthdayCelebrations.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\P05.BirthdayCelebrations.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\P05.BirthdayCelebrations.genruntimeconfig.cache

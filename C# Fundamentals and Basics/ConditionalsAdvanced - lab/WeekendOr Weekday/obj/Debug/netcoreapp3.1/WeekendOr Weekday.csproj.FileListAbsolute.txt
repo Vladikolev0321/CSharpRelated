@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\bin\Debug\netcoreapp3.1\WeekendOr Weekday.exe
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\bin\Debug\netcoreapp3.1\WeekendOr Weekday.deps.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\bin\Debug\netcoreapp3.1\WeekendOr Weekday.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\bin\Debug\netcoreapp3.1\WeekendOr Weekday.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\bin\Debug\netcoreapp3.1\WeekendOr Weekday.dll
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\bin\Debug\netcoreapp3.1\WeekendOr Weekday.pdb
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.dll
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.pdb
+C:\Users\User\source\repos\ConditionalsAdvanced - lab\WeekendOr Weekday\obj\Debug\netcoreapp3.1\WeekendOr Weekday.genruntimeconfig.cache

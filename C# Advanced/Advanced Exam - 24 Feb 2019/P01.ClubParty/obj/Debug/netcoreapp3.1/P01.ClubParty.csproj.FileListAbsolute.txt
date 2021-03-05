@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\bin\Debug\netcoreapp3.1\P01.ClubParty.exe
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\bin\Debug\netcoreapp3.1\P01.ClubParty.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\bin\Debug\netcoreapp3.1\P01.ClubParty.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\bin\Debug\netcoreapp3.1\P01.ClubParty.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\bin\Debug\netcoreapp3.1\P01.ClubParty.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\bin\Debug\netcoreapp3.1\P01.ClubParty.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 24 Feb 2019\P01.ClubParty\obj\Debug\netcoreapp3.1\P01.ClubParty.genruntimeconfig.cache

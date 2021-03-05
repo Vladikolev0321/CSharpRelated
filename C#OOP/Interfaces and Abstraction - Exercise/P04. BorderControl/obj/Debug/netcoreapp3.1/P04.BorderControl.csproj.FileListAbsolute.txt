@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\bin\Debug\netcoreapp3.1\P04.BorderControl.exe
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\bin\Debug\netcoreapp3.1\P04.BorderControl.deps.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\bin\Debug\netcoreapp3.1\P04.BorderControl.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\bin\Debug\netcoreapp3.1\P04.BorderControl.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\bin\Debug\netcoreapp3.1\P04.BorderControl.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\bin\Debug\netcoreapp3.1\P04.BorderControl.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\P04. BorderControl\obj\Debug\netcoreapp3.1\P04.BorderControl.genruntimeconfig.cache

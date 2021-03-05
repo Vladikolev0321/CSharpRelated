@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.exe
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.deps.json
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.runtimeconfig.json
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.runtimeconfig.dev.json
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.dll
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.pdb
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.AssemblyInfo.cs
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.dll
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.pdb
+C:\Users\User\source\repos\Advanced_Pre_Exam\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.genruntimeconfig.cache

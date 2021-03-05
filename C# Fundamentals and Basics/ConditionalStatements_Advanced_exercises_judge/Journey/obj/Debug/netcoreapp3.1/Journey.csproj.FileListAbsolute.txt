@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache

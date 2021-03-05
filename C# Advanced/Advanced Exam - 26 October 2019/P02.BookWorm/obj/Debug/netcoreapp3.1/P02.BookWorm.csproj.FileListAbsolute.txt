@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\bin\Debug\netcoreapp3.1\P02.BookWorm.exe
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\bin\Debug\netcoreapp3.1\P02.BookWorm.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\bin\Debug\netcoreapp3.1\P02.BookWorm.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\bin\Debug\netcoreapp3.1\P02.BookWorm.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\bin\Debug\netcoreapp3.1\P02.BookWorm.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\bin\Debug\netcoreapp3.1\P02.BookWorm.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.dll
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.pdb
+C:\Users\vladi\Desktop\C# Advanced\Advanced Exam - 26 October 2019\P02.BookWorm\obj\Debug\netcoreapp3.1\P02.BookWorm.genruntimeconfig.cache

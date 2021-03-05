@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\bin\Debug\netcoreapp3.1\Multidimensional Arrays Demo.exe
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\bin\Debug\netcoreapp3.1\Multidimensional Arrays Demo.deps.json
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\bin\Debug\netcoreapp3.1\Multidimensional Arrays Demo.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\bin\Debug\netcoreapp3.1\Multidimensional Arrays Demo.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\bin\Debug\netcoreapp3.1\Multidimensional Arrays Demo.dll
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\bin\Debug\netcoreapp3.1\Multidimensional Arrays Demo.pdb
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.dll
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.pdb
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - lab\Multidimensional Arrays Demo\obj\Debug\netcoreapp3.1\Multidimensional Arrays Demo.genruntimeconfig.cache

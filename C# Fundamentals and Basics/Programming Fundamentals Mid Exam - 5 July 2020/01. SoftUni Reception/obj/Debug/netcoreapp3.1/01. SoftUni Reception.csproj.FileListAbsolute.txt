@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\Programming Fundamentals Mid Exam - 5 July 2020\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.genruntimeconfig.cache

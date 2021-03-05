@@ -1,0 +1,12 @@
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\bin\Debug\netcoreapp3.1\05.DirectoryTraversing.exe
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\bin\Debug\netcoreapp3.1\05.DirectoryTraversing.deps.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\bin\Debug\netcoreapp3.1\05.DirectoryTraversing.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\bin\Debug\netcoreapp3.1\05.DirectoryTraversing.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\bin\Debug\netcoreapp3.1\05.DirectoryTraversing.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\bin\Debug\netcoreapp3.1\05.DirectoryTraversing.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\obj\Debug\netcoreapp3.1\05.DirectoryTraversing.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\obj\Debug\netcoreapp3.1\05.DirectoryTraversing.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\obj\Debug\netcoreapp3.1\05.DirectoryTraversing.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\obj\Debug\netcoreapp3.1\05.DirectoryTraversing.dll
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\obj\Debug\netcoreapp3.1\05.DirectoryTraversing.pdb
+C:\Users\vladi\Desktop\C#\C# Advanced\Streams, Files and Directories  - excercise\05.DirectoryTraversing\obj\Debug\netcoreapp3.1\05.DirectoryTraversing.genruntimeconfig.cache

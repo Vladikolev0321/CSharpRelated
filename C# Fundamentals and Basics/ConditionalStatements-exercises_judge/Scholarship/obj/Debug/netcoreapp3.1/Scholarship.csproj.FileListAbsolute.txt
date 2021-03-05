@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.exe
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.deps.json
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.dll
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.dll
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Users\User\source\repos\ConditionalStatements-exercises_judge\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.genruntimeconfig.cache

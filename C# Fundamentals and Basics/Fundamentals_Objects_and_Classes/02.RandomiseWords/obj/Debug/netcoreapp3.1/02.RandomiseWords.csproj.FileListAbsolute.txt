@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\bin\Debug\netcoreapp3.1\02.RandomiseWords.exe
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\bin\Debug\netcoreapp3.1\02.RandomiseWords.deps.json
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\bin\Debug\netcoreapp3.1\02.RandomiseWords.runtimeconfig.json
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\bin\Debug\netcoreapp3.1\02.RandomiseWords.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\bin\Debug\netcoreapp3.1\02.RandomiseWords.dll
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\bin\Debug\netcoreapp3.1\02.RandomiseWords.pdb
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.AssemblyInfo.cs
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.dll
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.pdb
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.genruntimeconfig.cache
+C:\Users\User\source\repos\Fundamentals_Objects_and_Classes\02.RandomiseWords\obj\Debug\netcoreapp3.1\02.RandomiseWords.csprojAssemblyReference.cache

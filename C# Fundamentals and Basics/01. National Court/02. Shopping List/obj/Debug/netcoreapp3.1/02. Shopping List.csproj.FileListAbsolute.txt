@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.genruntimeconfig.cache

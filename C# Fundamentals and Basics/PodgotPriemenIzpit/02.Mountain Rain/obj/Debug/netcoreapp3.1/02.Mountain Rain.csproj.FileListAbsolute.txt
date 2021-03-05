@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\bin\Debug\netcoreapp3.1\02.Mountain Rain.exe
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\bin\Debug\netcoreapp3.1\02.Mountain Rain.deps.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\bin\Debug\netcoreapp3.1\02.Mountain Rain.runtimeconfig.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\bin\Debug\netcoreapp3.1\02.Mountain Rain.runtimeconfig.dev.json
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\bin\Debug\netcoreapp3.1\02.Mountain Rain.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\bin\Debug\netcoreapp3.1\02.Mountain Rain.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\obj\Debug\netcoreapp3.1\02.Mountain Rain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\obj\Debug\netcoreapp3.1\02.Mountain Rain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\obj\Debug\netcoreapp3.1\02.Mountain Rain.AssemblyInfo.cs
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\obj\Debug\netcoreapp3.1\02.Mountain Rain.dll
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\obj\Debug\netcoreapp3.1\02.Mountain Rain.pdb
+C:\Users\User\source\repos\PodgotPriemenIzpit\02.Mountain Rain\obj\Debug\netcoreapp3.1\02.Mountain Rain.genruntimeconfig.cache

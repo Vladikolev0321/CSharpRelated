@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.exe
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.deps.json
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.dll
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.pdb
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.dll
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.pdb
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.genruntimeconfig.cache
+C:\Users\User\Desktop\C#OOP\TestDemos\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.csprojAssemblyReference.cache

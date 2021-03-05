@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.exe
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.deps.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfo.cs
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.dll
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.pdb
+C:\Users\User\Desktop\C#OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.exe
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.deps.json
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.runtimeconfig.json
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.runtimeconfig.dev.json
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.dll
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.pdb
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.dll
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.pdb
+C:\Users\vladi\OneDrive\Работен плот\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.genruntimeconfig.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.exe
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.deps.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.runtimeconfig.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.dll
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.pdb
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.dll
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.pdb
+C:\Users\vladi\Desktop\C# Advanced\Iterators and Comparators - Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.genruntimeconfig.cache

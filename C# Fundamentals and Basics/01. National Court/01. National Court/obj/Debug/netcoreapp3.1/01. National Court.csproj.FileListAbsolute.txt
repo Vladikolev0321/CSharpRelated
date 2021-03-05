@@ -1,0 +1,13 @@
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.exe
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.deps.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.dll
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.pdb
+C:\Users\vladi\Desktop\C#\C# Fundamentals and Basics\01. National Court\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+.json
+--05.DirectoryTraversing.runtimeconfig.json - 0.150390625kb
+--05.DirectoryTraversing.runtimeconfig.dev.json - 0.208984375kb
+--05.DirectoryTraversing.deps.json - 0.447265625kb
+.dll
+--05.DirectoryTraversing.dll - 7kb
+.exe
+--05.DirectoryTraversing.exe - 170.5kb
+.pdb
+--05.DirectoryTraversing.pdb - 9.9609375kb

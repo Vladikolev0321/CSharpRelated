@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\bin\Debug\netcoreapp3.1\HotelRoom.exe
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\bin\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\User\source\repos\ConditionalStatements_Advanced_exercises_judge\HotelProject\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache

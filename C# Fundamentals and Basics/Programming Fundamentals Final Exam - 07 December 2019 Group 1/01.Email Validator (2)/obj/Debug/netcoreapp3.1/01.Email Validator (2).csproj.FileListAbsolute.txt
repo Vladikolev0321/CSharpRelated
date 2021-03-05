@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\bin\Debug\netcoreapp3.1\01.Email Validator (2).exe
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\bin\Debug\netcoreapp3.1\01.Email Validator (2).deps.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\bin\Debug\netcoreapp3.1\01.Email Validator (2).runtimeconfig.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\bin\Debug\netcoreapp3.1\01.Email Validator (2).runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\bin\Debug\netcoreapp3.1\01.Email Validator (2).dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\bin\Debug\netcoreapp3.1\01.Email Validator (2).pdb
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\obj\Debug\netcoreapp3.1\01.Email Validator (2).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\obj\Debug\netcoreapp3.1\01.Email Validator (2).AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\obj\Debug\netcoreapp3.1\01.Email Validator (2).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\obj\Debug\netcoreapp3.1\01.Email Validator (2).dll
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\obj\Debug\netcoreapp3.1\01.Email Validator (2).pdb
+C:\Users\User\source\repos\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01.Email Validator (2)\obj\Debug\netcoreapp3.1\01.Email Validator (2).genruntimeconfig.cache
